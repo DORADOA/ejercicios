@@ -1,0 +1,4 @@
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\ListaDeTareas\obj\Debug\net6.0\ListaDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\ListaDeTareas\obj\Debug\net6.0\ListaDeTareas.AssemblyInfoInputs.cache
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\ListaDeTareas\obj\Debug\net6.0\ListaDeTareas.AssemblyInfo.cs
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\ListaDeTareas\obj\Debug\net6.0\ListaDeTareas.csproj.CoreCompileInputs.cache

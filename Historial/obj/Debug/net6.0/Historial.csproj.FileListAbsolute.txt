@@ -1,0 +1,14 @@
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\bin\Debug\net6.0\Historial.exe
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\bin\Debug\net6.0\Historial.deps.json
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\bin\Debug\net6.0\Historial.runtimeconfig.json
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\bin\Debug\net6.0\Historial.dll
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\bin\Debug\net6.0\Historial.pdb
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\Historial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\Historial.AssemblyInfoInputs.cache
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\Historial.AssemblyInfo.cs
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\Historial.csproj.CoreCompileInputs.cache
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\Historial.dll
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\refint\Historial.dll
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\Historial.pdb
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\Historial.genruntimeconfig.cache
+C:\Users\adorado\source\repos\Colecciones-Ejercicios\Historial\obj\Debug\net6.0\ref\Historial.dll
